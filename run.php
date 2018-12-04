@@ -42,7 +42,7 @@ $jumlah = trim(fgets(STDIN));
 $i=0;
 while($i<$jumlah)
     {
-			sleep(0.5);
+			sleep(1);
 			$i++;
 		    bom($no);
 	};
